@@ -1,0 +1,1 @@
+This directory contains information about our prompts and OpenAI API hyperparameters for (1) running the GPT-3.5 and GPT-4 event argument extraction (EAE) experiments reported in the paper (`eae_experiments`), and (2) generating paraphrases for the FAMuS role questions and templates (`paraphrase_generation`).

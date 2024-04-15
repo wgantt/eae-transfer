@@ -1,0 +1,5 @@
+Instructions: Please generate five paraphrases of the following question. Your answer MUST be formatted as a JSON list of strings.
+
+Question: Who abandoned someone or something?
+
+Paraphrases:

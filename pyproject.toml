@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "eae-transfer"
+version = "0.1.0"
+description = "Transfer Learning for Event Argument Extraction"
+authors = ["Will Gantt <wgantt.iv@gmail.com>"]
+license = "MIT License"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10,<3.13"
+torch = {url = "https://download.pytorch.org/whl/cu117/torch-2.0.1%2Bcu117-cp310-cp310-linux_x86_64.whl"}
+accelerate = "^0.27.2"
+datasets = "^2.15.0"
+click = "^8.1.7"
+transformers = "^4.36.2"
+sacremoses = "^0.1.1"
+metametric = {git = "https://github.com/wanmok/metametric.git"}
+spacy = "^3.7.2"
+spacy-alignments = "^0.9.1"
+sentencepiece = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

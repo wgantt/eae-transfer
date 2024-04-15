@@ -1,0 +1,5 @@
+Instructions: Please generate five paraphrases of the following template, but you ABSOLUTELY CANNOT change any words that are in between brackets ([]). Your paraphrases MUST be formatted as a JSON list of strings.
+
+Template: [Cognizer] invents or conceives of [New_idea] at [Time] in [Place].
+
+Paraphrases:

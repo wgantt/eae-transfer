@@ -1,0 +1,1 @@
+This directory contains utilities for scoring RAMS predictions. With the exception of this file and `predictions_to_rams_format.py`, all files in this directory are taken (without editing) from the code archive available [here](https://nlp.jhu.edu/rams/).
